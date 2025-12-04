@@ -17,8 +17,8 @@ declare( strict_types=1 );
 
 namespace ArrayPress\EDD\RegisterColumns\Abstracts;
 
+use ArrayPress\ArrayUtils\Arr;
 use ArrayPress\EDD\RegisterColumns\Traits\Request;
-use ArrayPress\EDD\RegisterColumns\Utils\Arr;
 use Exception;
 
 /**
