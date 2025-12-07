@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=7.4",
-    "arraypress/wp-array-utils": "dev-main"
+    "arraypress/wp-array-utils": "*"
   },
   "autoload": {
     "psr-4": {
